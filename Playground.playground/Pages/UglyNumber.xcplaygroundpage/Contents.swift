@@ -5,7 +5,7 @@
 */
 
 func nthUglyNumber(_ n: Int) -> Int {
-    
+
     if n <= 0 { return -1 }
     
     if n < 7 { return n  }
