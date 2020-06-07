@@ -1,0 +1,3 @@
+# Leet Code 
+
+- ugly number
