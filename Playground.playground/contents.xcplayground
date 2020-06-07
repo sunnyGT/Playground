@@ -3,5 +3,6 @@
     <pages>
         <page name='Main'/>
         <page name='UglyNumber'/>
+        <page name='LengthOfLongestSubstring'/>
     </pages>
 </playground>
