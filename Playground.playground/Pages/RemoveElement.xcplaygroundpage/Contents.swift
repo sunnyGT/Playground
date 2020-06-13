@@ -32,6 +32,7 @@ func removeElement(_ nums: inout [Int], _ val: Int) -> Int {
             if nums[r] == val { r -= 1 }
         }
     }
+    
     return l
 }
 //: [Next](@next)
